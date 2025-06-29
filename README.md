@@ -2,7 +2,7 @@
 
 This is a simple platformer game implemented using JavaScript, HTML, and CSS. The game includes player movement, collectible coins, and hazardous lava. The goal is to collect all the coins while avoiding the lava.
 
-# 👉  [Demo](https://mirzaatifbaig.github.io/maze/index.html)
+# 👉  [Demo](https://mirzaatifbaig.github.io/js-game/index.html)
 
 ## Features
 
